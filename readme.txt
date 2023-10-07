@@ -1,0 +1,1 @@
+Some implementations of various random walks in various random dimensions, as part of the phi^4 coupling thesis. 
