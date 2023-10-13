@@ -1,0 +1,6 @@
+
+https://pitp.phas.ubc.ca/confs/sherbrooke/archives/pitpcifar_sherbrooke2008_intro_mc_troyer.pdf
+
+http://www-personal.umd.umich.edu/~wiclarks/AstroLab/HOWTOs/NotebookStuff/MonteCarloHOWTO.html
+
+https://pubs.aip.org/aapt/ajp/article/78/2/150/570688/Estimating-errors-reliably-in-Monte-Carlo
